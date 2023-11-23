@@ -6,3 +6,5 @@ This repository contains the assignments that were developed in order to complet
 * The second assignment is about the use of neural networks and transfer learning on image classification.
 * The third and last assignment focuses on the task of object detection in videos and images.
 
+For more info, please refer to the file of the corresponding project.
+
